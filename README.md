@@ -1,10 +1,10 @@
-Tobias J. Sanchez Aguirre
+# Tobias J. Sanchez Aguirre
 
 Interested in backend, cloud, and infrastructure.
 
 Most of my repositories are side effects of trying to understand how things work.
 
-Things I usually end up reading about
+## Things I usually end up reading about
 
 - Linux internals
 - Networking
