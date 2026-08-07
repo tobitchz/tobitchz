@@ -1,29 +1,18 @@
-# Tobias J. Sanchez Aguirre
+Tobias J. Sanchez Aguirre
 
-Interested in backend, cloud and infrastructure.
+Interested in backend, cloud, and infrastructure.
 
-Most of my repositories are side effects of trying to understand how something works.
+Most of my repositories are side effects of trying to understand how things work.
 
-## Things I usually end up reading about
+Things I usually end up reading about
 
 - Linux internals
 - Networking
 - Databases
 - Distributed systems
-- Operating Systems
+- Operating systems
 - Cloud infrastructure
 
-Learning a framework gets easier every year.
-
-Understanding systems doesn't.
+I enjoy understanding why systems behave the way they do.
 
 I like understanding the cost of an abstraction before adding another one.
-
-Methodologies should help people build software, not become the software.
-
-AI is a great accelerator.
-It isn't a replacement for engineering.
-Not yet.
----
-
-*"If silicon were a person, I'd walk beside it under the moon to understand why it bears its silent anguish; why it never tries to be right, choosing instead to remain silent before the one who controls it."*
