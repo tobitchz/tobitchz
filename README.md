@@ -11,5 +11,4 @@ Interested in backend, cloud, and infrastructure.
 - Operating systems
 - Cloud infrastructure
 
-I enjoy understanding why systems behave the way they do.
 
