@@ -10,4 +10,4 @@ I'm particularly interested in operating systems,
 software architecture and the interaction between
 software and hardware.
 
-<img src="./tux.gif" width="100" alt="Tux">
+<img src="./e20086e1-a546-4379-b8c0-07c2ac1588ef.gif" width="100" alt="Tux">
