@@ -11,4 +11,4 @@ software architecture and the interaction between
 software and hardware.
 
 
-<img align="right"src="./e20086e1-a546-4379-b8c0-07c2ac1588ef.gif"  width="120" alt="Tux">
+<img align="right" src="./e20086e1-a546-4379-b8c0-07c2ac1588ef.gif"  width="120" alt="Tux">
