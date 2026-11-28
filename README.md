@@ -1,11 +1,9 @@
-### `#!/usr/bin/env tobitchz`
+!/usr/bin/env tobitchz
 
-Software developer based in Buenos Aires, Argentina. Looking for backend, cloud, and infrastructure roles.
+Software developer based in Buenos Aires, Argentina. Interested in backend systems, infrastructure, and software architecture.
 
-I like going down a layer when something breaks. I was trying to deploy AlertAR, a geolocated alerts backend I built with a team, on my own server, when the machine started hanging without a GPU and I couldn't reach it over SSH. So I started taking its UEFI firmware apart to find out why. That's [jaco-firmware](https://github.com/tobitchz/jaco-firmware), currently on hold until I can read the board's POST beep codes with a buzzer.
+I like going down a layer when something breaks. While deploying AlertAR, a geolocated alert system I built with a team, I ran into an unexpected hardware issue that led me to investigate its UEFI firmware: [jaco-firmware](https://github.com/tobitchz/jaco-firmware).
 
-I'm looking to work on larger systems with a team.
+I'm looking to contribute to larger systems, solve challenging engineering problems, and grow alongside an experienced team.
 
-[LinkedIn](https://www.linkedin.com/in/tobisanchez/)
-
-<img align="right" src="./2ba4834f-26f1-4a5b-ab76-f3cbab54705a.gif" width="120" alt="Tux">
+[LinkedIn](https://www.linkedin.com/in/tobisanchez/) · [Email](mailto:tojoaca10@gmail.com)
